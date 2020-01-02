@@ -1,4 +1,4 @@
-Demo https://cryptic-reaches-34029.herokuapp.com/
+Example https://cryptic-reaches-34029.herokuapp.com/
 
 Probably Chrome will block page. Allow right upside.
 
